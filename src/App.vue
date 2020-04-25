@@ -51,7 +51,7 @@
       <Button-Group>
         <Button block goto="https://battleaxe.dev">See the docs</Button>
         <Button block goto="https://github.com/Inventsable/brutalism#-brutalism">See the code</Button>
-        <Button block goto="https://github.com/Inventsable/brutalism/issues/new">Report a bug</Button>
+        <Button block goto="https://github.com/Inventsable/bombino-brutalism-basic#-bombino-brutalism-basic">Get this template</Button>
       </Button-Group>
     </Panel>
     
