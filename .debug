@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="com.bombino-brutalism.panel">
+        <HostList>
+            <Host Name="ILST" Port="6623" />
+            <Host Name="AEFT" Port="6624" />
+            <Host Name="PHXS" Port="6625" />
+            <Host Name="PPRO" Port="6626" />
+            <Host Name="IDSN" Port="6627" />
+            <Host Name="AUDT" Port="6628" />
+        </HostList>
+    </Extension>
+</ExtensionList>
