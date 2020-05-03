@@ -46,13 +46,15 @@
       https://github.com/Inventsable/brutalism/tree/master/components/Panel
     -->
     <Panel app="ILST" theme="darkest">
-      <battleaxe-logo />
-      <brutalism-title subtitle="basic" />
-      <Button-Group>
-        <Button block goto="https://battleaxe.dev">See the docs</Button>
-        <Button block goto="https://github.com/Inventsable/brutalism#-brutalism">See the code</Button>
-        <Button block goto="https://github.com/Inventsable/bombino-brutalism-basic#-bombino-brutalism-basic">Get this template</Button>
-      </Button-Group>
+      <Wrapper>
+        <battleaxe-logo />
+        <brutalism-title subtitle="basic" />
+        <Button-Group>
+          <Button block goto="https://battleaxe.dev/brutalism-docs/#/">See the docs</Button>
+          <Button block goto="https://github.com/Inventsable/brutalism#-brutalism">See the code</Button>
+          <Button block goto="https://github.com/Inventsable/bombino-brutalism-basic#-bombino-brutalism-basic">Get this template</Button>
+        </Button-Group>
+      </Wrapper>
     </Panel>
     
   </div>
